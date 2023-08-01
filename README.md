@@ -9,8 +9,8 @@ Desarrollador Web con experiencia en JavaScript, React, Redux, Next.js, CSS, Tai
 Estoy emocionado por aplicar mi pasión por la programación y mi deseo de aprender en nuevos proyectos. Mi background en Ingeniería en Sistemas y Técnico Electrónico me permite colaborar efectivamente en equipos y liderar proyectos.
 
 Si estás buscando a alguien con mis habilidades y conocimientos, no dudes en contactarme. ¡Estoy abierto a nuevas oportunidades y colaboraciones! 😊 
-<h3📲WhatsApp: +54 3518060600</h3>
-<h3📧Email: nahu.castro@hotmail.com</h3>
+<h3>📲WhatsApp: +54 3518060600</h3>
+<h3>📧Email: nahu.castro@hotmail.com</h3>
 <br/>  
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
