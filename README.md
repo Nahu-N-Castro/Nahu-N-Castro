@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nahuel</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-<div align="center" style="width: 50%">
-<img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" align="center" style="width: 100%" />
+<div align="center">
 </div>  
   
 
