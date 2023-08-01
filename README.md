@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nahuel</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
+<div align="center" style="width: 50%">
+<img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" align="center" style="width: 100%" />
+</div>  
+  
 
+¡Hola! Soy Nahuel, Desarrollador Web con experiencia en JavaScript, React, Redux, Next.js, CSS, Tailwind, Figma, Express, PostgreSQL y Git. Me encantan los desafíos y la resolución de problemas con soluciones innovadoras y mejoras de código.
+
+Estoy emocionado por aplicar mi pasión por la programación y mi deseo de aprender en nuevos proyectos. Mi background en Ingeniería en Sistemas y Técnico Electrónico me permite colaborar efectivamente en equipos y liderar proyectos.
+
+Si estás buscando a alguien con mis habilidades y conocimientos, no dudes en contactarme. ¡Estoy abierto a nuevas oportunidades y colaboraciones! 😊  
+  
+
+<br/>  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nahuelcastro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuelcastro" height="30" width="40" /></a>
