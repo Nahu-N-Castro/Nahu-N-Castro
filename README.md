@@ -1,41 +1,27 @@
-
 <h1 align="center"> hi!👋, I'm Nahuel </h1>
 
 <h3 align="center">A FullStack Developer from Argentina</h3>
 
-<table>
-<tr>
-  <td valign="top" width="50%">
+### About me
 
-  ### About me  
-  Web Developer with experience in JavaScript, React, Redux, Next.js, CSS, Tailwind, Figma, Express, PostgreSQL, and Git. I love challenges and solving problems with innovative solutions and code improvements.
+<img align="right" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" style="width: 20%" />
 
-  I'm excited to apply my passion for programming and my desire to learn to new projects. My background in Systems Engineering and as an Electronic Technician allows me to effectively collaborate in teams and lead projects.
+Web Developer with experience in JavaScript, React, Redux, Next.js, CSS, Tailwind, Figma, Express, PostgreSQL, and Git. I love challenges and solving problems with innovative solutions and code improvements.
 
-  If you're looking for someone with my skills and knowledge, don't hesitate to contact me. I'm open to new opportunities and collaborations! 😊  
-  
-  - 🌱 I’m currently learning Typescript  
-  - 👨‍💻Contact me at [Linkedin](https://www.linkedin.com/in/nahuelcastro)  
-  - 📧 Send an Email at nahu.castro@hotmail.com  
+I'm excited to apply my passion for programming and my desire to learn to new projects. My background in Systems Engineering and as an Electronic Technician allows me to effectively collaborate in teams and lead projects.
 
-  </td>
-  <td valign="top" width="50%">
-  
-    ![gif](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif)
+If you're looking for someone with my skills and knowledge, don't hesitate to contact me. I'm open to new opportunities and collaborations! 😊
 
-  </td>
-</tr>
-</table>
+- 🌱 I’m currently learning Typescript
+- 👨‍💻Contact me at [Linkedin](https://www.linkedin.com/in/nahuelcastro)
+- 📧 Send an Email at nahu.castro@hotmail.com
 
+</td></tr></table>
 
+<br/>
 
+## Languages and Tools
 
-
-</td></tr></table>  
-
-<br/>  
-
-## Languages and Tools 
 <table><tr><td valign="top" width="50%">
 
 <div align="center">  
@@ -64,7 +50,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahu-N-Castro&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
+
 
