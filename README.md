@@ -4,7 +4,7 @@
 
 ### About me
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" style="width: 50%" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" style="width: 75%" />
 
 Web Developer with experience in JavaScript, React, Redux, Next.js, CSS, Tailwind, Figma, Express, PostgreSQL, and Git. I love challenges and solving problems with innovative solutions and code improvements.
 
