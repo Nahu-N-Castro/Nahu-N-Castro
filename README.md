@@ -12,7 +12,7 @@ I'm excited to apply my passion for programming and my desire to learn to new pr
 
 If you're looking for someone with my skills and knowledge, don't hesitate to contact me. I'm open to new opportunities and collaborations! 😊
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently work in my Portfolio
 - 👨‍💻Contact me at [Linkedin](https://www.linkedin.com/in/nahuelcastro)
 - 📧 Send an Email at nahu.castro@hotmail.com
 
