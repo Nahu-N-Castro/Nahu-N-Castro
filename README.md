@@ -5,7 +5,7 @@
 
 <table>
 <tr>
-  <td valign="top" width="70%">
+  <td valign="top" width="50%">
 
   ### About me  
   Web Developer with experience in JavaScript, React, Redux, Next.js, CSS, Tailwind, Figma, Express, PostgreSQL, and Git. I love challenges and solving problems with innovative solutions and code improvements.
@@ -19,13 +19,14 @@
   - 📧 Send an Email at nahu.castro@hotmail.com  
 
   </td>
-  <td valign="top" width="30%">
+  <td valign="top" width="50%">
   
-    <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" align="right" style="width: 100%" />
+    ![gif](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif)
 
   </td>
 </tr>
 </table>
+
 
 
 
