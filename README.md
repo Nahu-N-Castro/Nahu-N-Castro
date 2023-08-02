@@ -1,11 +1,13 @@
 
 <h1 align="center"> hi!👋, I'm Nahuel </h1>
 
-<div style="display: flex; flex-direction: row;">
-  <h3 align="center">A FullStack Developer from Argentina</h3>
-  <div style="flex: 1;">
-  
-  ### About me!  
+<h3 align="center">A FullStack Developer from Argentina</h3>
+
+<table>
+<tr>
+  <td valign="top" width="50%">
+
+  ### About me  
   Web Developer with experience in JavaScript, React, Redux, Next.js, CSS, Tailwind, Figma, Express, PostgreSQL, and Git. I love challenges and solving problems with innovative solutions and code improvements.
 
   I'm excited to apply my passion for programming and my desire to learn to new projects. My background in Systems Engineering and as an Electronic Technician allows me to effectively collaborate in teams and lead projects.
@@ -14,13 +16,17 @@
   
   - 🌱 I’m currently learning Typescript  
   - 👨‍💻Contact me at [Linkedin](https://www.linkedin.com/in/nahuelcastro)  
-  - 📧 Send a Email at nahu.castro@hotmail.com  
-  </div>
+  - 📧 Send an Email at nahu.castro@hotmail.com  
 
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" align="right" style="width: 40%" />
-  </div>
-</div>
+  </td>
+  <td valign="top" width="50%">
+  
+    <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" align="right" style="width: 100%" />
+
+  </td>
+</tr>
+</table>
+
 
 
 </td></tr></table>  
