@@ -1,8 +1,8 @@
 
 <h1 align="center"> hi!👋, I'm Nahuel </h1>
-<h3 align="center">A FullStack Developer from Argentina</h3>
 
 <div style="display: flex; flex-direction: row;">
+  <h3 align="center">A FullStack Developer from Argentina</h3>
   <div style="flex: 1;">
   
   ### About me!  
