@@ -18,7 +18,7 @@
   </div>
 
   <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" align="right" style="width: 60%" />
+    <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" align="right" style="width: 40%" />
   </div>
 </div>
 
