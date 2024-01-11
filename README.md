@@ -14,6 +14,7 @@ If you're looking for someone with my skills and knowledge, don't hesitate to co
 
 - 🌱 I’m currently work freelance but you can contact me!
 - 👨‍💻 Contact me at [Linkedin](https://www.linkedin.com/in/nahuelcastro)
+- 💼 Check my inmersive [Portfolio](https://nahuel-castro.vercel.app/)
 - 📧 Send an Email at nahu.castro@hotmail.com
 
 </td></tr></table>
